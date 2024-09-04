@@ -1,0 +1,1 @@
+# The power to rescind obligations is implied in reciprocal ones, in case one of the obligors should not comply with what is incumbent upon him

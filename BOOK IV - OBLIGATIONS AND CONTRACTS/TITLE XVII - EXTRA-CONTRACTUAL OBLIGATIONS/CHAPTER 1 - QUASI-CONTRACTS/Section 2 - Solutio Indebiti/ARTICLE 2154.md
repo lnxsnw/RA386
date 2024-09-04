@@ -1,0 +1,1 @@
+# If something is received when there is no right to demand it, and it was unduly delivered through mistake, the obligation to return it arises. (1895)

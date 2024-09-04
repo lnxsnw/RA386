@@ -1,0 +1,1 @@
+# When the obligation consists in not doing, and the obligor does what has been forbidden him, it shall also be undone at his expense. (1099a)

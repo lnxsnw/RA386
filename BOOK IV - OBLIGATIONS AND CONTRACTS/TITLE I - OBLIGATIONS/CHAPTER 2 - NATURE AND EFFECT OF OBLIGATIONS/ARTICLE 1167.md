@@ -1,0 +1,1 @@
+# If a person obliged to do something fails to do it, the same shall be executed at his cost. This same rule shall be observed if he does it in contravention of the tenor of the obligation. Furthermore, it may be decreed that what has been poorly done be undone. (1098)

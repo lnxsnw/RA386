@@ -1,0 +1,1 @@
+# The head of a family that lives in a building or a part thereof, is responsible for damages caused by things thrown or falling from the same. (1910)

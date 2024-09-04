@@ -1,0 +1,1 @@
+# Certain lawful, voluntary and unilateral acts give rise to the juridical relation of quasi-contract to the end that no one shall be unjustly enriched or benefited at the expense of another. (n)

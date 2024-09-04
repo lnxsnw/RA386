@@ -1,0 +1,1 @@
+# The possessor of an animal or whoever may make use of the same is responsible for the damage which it may cause, although it may escape or be lost. This responsibility shall cease only in case the damage should come from force majeure or from the fault of the person who has suffered damage. (1905)
