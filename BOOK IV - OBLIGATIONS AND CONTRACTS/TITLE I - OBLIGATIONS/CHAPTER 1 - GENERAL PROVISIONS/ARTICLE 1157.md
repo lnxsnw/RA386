@@ -20,7 +20,7 @@
 > [!example]-  Case Examples
 > (1) Law
 > ```
-> A must pay taxes as mandated by law..
+> A must pay taxes as mandated by law.
 > ```
 > (2) Contracts
 > ```
