@@ -1,3 +1,1 @@
 # The contracting parties may establish such stipulations, clauses, terms and conditions as they may deem convenient, provided they are not contrary to law, morals, good customs, public order, or public policy. (1255a)
-
-## Book Contents

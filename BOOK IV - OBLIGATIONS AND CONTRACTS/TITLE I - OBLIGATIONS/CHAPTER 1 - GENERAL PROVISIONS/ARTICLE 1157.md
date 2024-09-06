@@ -43,38 +43,40 @@
 
 ### Sources of obligations.
 The sources of obligations are enumerated below:
+
 - (1) *Law*.  — when they are imposed by law itself.
 
-> [!NOTE] EXAMPLES:
-> Obligation to pay taxes; obligation to support one's family. ([[ARTICLE 291]])
+    > [!NOTE] EXAMPLES:
+    > Obligation to pay taxes; obligation to support one's family. ([[ARTICLE 291]])
 
 - (2) *Contracts*. — when they arise from the stipulation the parties. ([[ARTICLE 1306]].)
 
-> [!NOTE] EXAMPLES:
-> The obligation to repay a loan or indebtedness by virtue of an agreement.
+    > [!NOTE] EXAMPLES:
+    > The obligation to repay a loan or indebtedness by virtue of an agreement.
 
 - (3) *Quasi-contracts.* — when they arise from lawful, voluntary and unilateral acts which are enforceable to the end that no one shall be unjustly enriched or benefited at the expense of another. ([[ARTICLE 2142]].) In a sense, these obligations may be considered as arising from law.
 
-> [!NOTE] EXAMPLE:
-> The obligation to return money paid by mistake or which is not due. ([[ARTICLE 2154]].)
+    > [!NOTE] EXAMPLE:
+    > The obligation to return money paid by mistake or which is not due. ([[ARTICLE 2154]].)
 
 - (4) *Crimes or acts or omissions punished by law.* — when they arise from civil liability which is the consequence of a criminal offense. ([[ARTICLE 1161]].)
 
-> [!NOTE] EXAMPLE:
-> The obligation of a thief to return the car stolen by him; the duty of a killer to indemnify the heirs of his victim.
+    > [!NOTE] EXAMPLE:
+    > The obligation of a thief to return the car stolen by him; the duty of a killer to indemnify the heirs of his victim.
 
 - (5) *Quasi-delicts or torts.* — when they arise from damage caused to another through an act or omission, there being fault or negligence, but no contractual relation exists between the parties. ([[ARTICLE 2176]].)
 
-> [!NOTE] EXAMPLES:
-> The obligation of the head of a family that lives in a building or a part thereof to answer for damages caused by things thrown or falling from the same ([[ARTICLE 2193]].); the obligation of the possessor of an animal to pay for the damage which it may have caused ([[ARTICLE 2183]].)
->
-> There is no obligation as defined in Article 1156, if its source is not any of those enumerated in Article 1157.
+    > [!NOTE] EXAMPLES:
+    > The obligation of the head of a family that lives in a building or a part thereof to answer for damages caused by things thrown or falling from the same ([[ARTICLE 2193]].); the obligation of the possessor of an animal to pay for the damage which it may have caused ([[ARTICLE 2183]].)
+    >
+    > There is no obligation as defined in Article 1156, if its source is not any of those enumerated in Article 1157.
 
 ### Sources classified.
 The law enumerates five (5) sources of obligations. They may be classified as follows:
+
 - (1) Those emanating from *law*; and
 - (2) Those emanating from *private acts* which may be further subdivided into:
-	- (a) Those arising from *licit acts*, in the case of contracts and quasi-contracts (infra.); and
-	- (b) Those arising from *illicit acts*, which may be either punishable in the case of delicts or crimes, or not punishable in the case of quasi-delicts or torts. (infra.)
+> - (a) Those arising from *licit acts*, in the case of contracts and quasi-contracts (infra.); and
+> - (b) Those arising from *illicit acts*, which may be either punishable in the case of delicts or crimes, or not punishable in the case of quasi-delicts or torts. (infra.)
 
 Actually, there are only two (2) sources: law and contracts, because obligations arising from quasi-contracts, delicts, and quasi-delicts are really imposed by law. (see [[Leung Ben vs. O'Brien, 38 Phil. 182]])

@@ -1,1 +1,8 @@
+# Ignore the .obsidian folder
 .obsidian
+
+# Ignore all .md files in the root directory, these are articles that needs to be filled.
+/*.md
+
+# Exclude README.md from being ignored
+!README.md

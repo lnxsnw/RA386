@@ -1,9 +1,1 @@
 # Whoever by act or omission causes damage to another, there being fault or negligence, is obliged to pay for the damage done. Such fault or negligence, if there is no pre-existing contractual relation between the parties, is called a quasi-delict and is governed by the provisions of this Chapter. (1902a)
-
-## Article Definitions
-
-## Article Explanation
-
-## Case Examples
-
-## Book Contents
