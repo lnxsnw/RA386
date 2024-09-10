@@ -9,7 +9,7 @@
 > : appropriate.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Civil obligation arising from a criminal act
 > ```
 > A is convicted of theft and ordered to pay B, the owner of the stolen item, the value of the item as restitution.

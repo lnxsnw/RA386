@@ -17,7 +17,7 @@
 > : a wrongful act other than a breach of contract that injures another and for which the law imposes civil liability.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > (1) Law
 > ```
 > A must pay taxes as mandated by law.
@@ -44,7 +44,7 @@
 ### Sources of obligations.
 The sources of obligations are enumerated below:
 
-- (1) *Law*.  — when they are imposed by law itself.
+- (1) *Law*. — when they are imposed by law itself.
 
     > [!NOTE] EXAMPLES:
     > Obligation to pay taxes; obligation to support one's family. ([[ARTICLE 291]])

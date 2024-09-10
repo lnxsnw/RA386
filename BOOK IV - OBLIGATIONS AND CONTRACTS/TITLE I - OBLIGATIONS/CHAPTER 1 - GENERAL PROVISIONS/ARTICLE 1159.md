@@ -2,7 +2,7 @@
 
 > [!summary] Obligations arising from contacts are binding and must be performed in good faith.
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Article 1159
 > ```
 > A and B sign a contract for R to deliver goods to B. Both must fulfill their obligations in good faith as if the contract were law between them.

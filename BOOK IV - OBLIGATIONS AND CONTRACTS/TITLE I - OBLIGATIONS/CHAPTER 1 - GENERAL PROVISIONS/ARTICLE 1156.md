@@ -13,7 +13,7 @@
 > : the science or philosophy of law.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Obligation to give
 > ```
 > A owes B P100.

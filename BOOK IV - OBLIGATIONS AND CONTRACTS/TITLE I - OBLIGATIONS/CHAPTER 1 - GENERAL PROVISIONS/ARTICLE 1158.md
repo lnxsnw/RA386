@@ -9,7 +9,7 @@
 > : to expect or assume especially with confidence.
 > ```
 
-> [!example]-  Case Example
+> [!example]- Case Example
 > Article 1158
 > ```
 > A is not automatically obligated to give B a share of his inheritance unless the law explicitly provides for it under certain conditions.

@@ -8,7 +8,7 @@
 > : in a secondary or supplementary manner.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Article 2014
 > ```
 > If a person wins money in a casino, the law does not allow the casino to pursue the winner for the winnings.

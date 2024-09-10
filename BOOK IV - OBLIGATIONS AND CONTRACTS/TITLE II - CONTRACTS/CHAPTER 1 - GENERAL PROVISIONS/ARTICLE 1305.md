@@ -2,7 +2,7 @@
 
 > [!summary] Defines a contract as a meeting of minds between two persons where one binds himself to give something or render a service to the other.
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Contract to give
 > ```
 > A agrees to sell a car to B for ₱500,000.

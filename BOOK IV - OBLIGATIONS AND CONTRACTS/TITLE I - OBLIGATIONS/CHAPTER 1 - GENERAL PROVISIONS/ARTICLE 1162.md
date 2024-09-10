@@ -9,7 +9,7 @@
 > : having a legal status only by operation or construction of law and without reference to intent.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Negligence
 > ```
 > A driver (A) carelessly runs a red light and hits a pedestrian (B), creating an obligation for A to compensate B for the injuries.
@@ -27,7 +27,6 @@ The above provision treats of obligations arising from quasi-delicts or torts. (
 A *quasi-delict* is an act or omission by a person (tortfeasor) which causes damage to another in his person, property, or rights giving rise to an obligation to pay for the damage done, there being fault or negligence but there is no pre-existing contractual relation between the parties. ([[ARTICLE 2176]].)
 
 ### Requisites of quasi-delict.
-
 Before a person can be held liable for quasi-delict, the following requisites must be present:
 
 - (1) There must be an act or omission;
@@ -35,7 +34,6 @@ Before a person can be held liable for quasi-delict, the following requisites mu
 - (3) There must be damage caused;
 - (4) There must be a direct relation or connection of cause and effect between the act or omission and the damage; and
 - (5) There is no pre-existing contractual relation between the parties.
-
 
 > [!NOTE] EXAMPLE
 > While playing softball with his friends, X broke the window glass of Y, his neighbor. The accident would not have happened had they played a little farther from the house of Y.

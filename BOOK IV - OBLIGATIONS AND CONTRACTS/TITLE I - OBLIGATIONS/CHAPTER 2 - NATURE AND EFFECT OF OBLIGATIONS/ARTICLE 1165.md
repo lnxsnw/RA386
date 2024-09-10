@@ -13,7 +13,7 @@
 > : an event of natural or human origin that could not have been reasonably foreseen or expected and is out of the control of the persons concerned (as parties to a contract).
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Compel delivery of a determinate thing
 > ```
 > A agrees to sell his specific vintage car to B. If A refuses, B can compel A to deliver the exact car.
@@ -60,4 +60,4 @@ Paragraph 3 gives two (2) instances when a fortuitous event does not exempt the 
 
 Delay is discussed in Article 1169, and fortuitous events, in [[ARTICLE 1174]].
 
-[^3]: Under the Constitution, no person shall be imprisoned for non-payment of debt. (Art. III, Sec. 20 thereof.) However a person may be subject to subsidiary imprisonment for non-payment of civil liability adjudged in a criminal case. (see [[ARTICLE 1161]].) The constitutional prohibition refers to purely civil debt or one arising from contractual obligations only.
+[^3]: Under the Constitution, no person shall be imprisoned for non-payment of debt. [(Art. III, Sec. 20 thereof.)](https://www.officialgazette.gov.ph/constitutions/1987-constitution/) However a person may be subject to subsidiary imprisonment for non-payment of civil liability adjudged in a criminal case. (see [[ARTICLE 1161]].) The constitutional prohibition refers to purely civil debt or one arising from contractual obligations only.

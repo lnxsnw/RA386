@@ -12,7 +12,7 @@
 > : 2
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > 1
 > ```
 > 1

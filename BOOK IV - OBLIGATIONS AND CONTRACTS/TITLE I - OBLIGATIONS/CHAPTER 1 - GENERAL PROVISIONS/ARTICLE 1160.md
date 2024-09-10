@@ -9,7 +9,7 @@
 > : having a legal status only by operation or construction of law and without reference to intent.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Negotiorum gestio (management of another’s affairs without their consent)
 > ```
 > A repairs B’s damaged roof during a storm without being asked, creating an obligation for B to reimburse A for the expenses.

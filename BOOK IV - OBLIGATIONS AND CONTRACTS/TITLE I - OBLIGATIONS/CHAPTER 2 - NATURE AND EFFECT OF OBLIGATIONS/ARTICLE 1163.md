@@ -13,7 +13,7 @@
 > : a specific condition or requirement in an agreement or contract.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Proper diligence
 > ```
 > A is obligated to deliver a car to B. A must maintain the car in good condition, similar to how a responsible parent would care for their property.

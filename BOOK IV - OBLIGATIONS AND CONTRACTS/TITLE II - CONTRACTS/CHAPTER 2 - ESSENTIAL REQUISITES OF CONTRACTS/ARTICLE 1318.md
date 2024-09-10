@@ -14,7 +14,7 @@
 > : to happen or occur at the same time.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Consent
 > ```
 > A and B both agree to the terms of a lease contract.

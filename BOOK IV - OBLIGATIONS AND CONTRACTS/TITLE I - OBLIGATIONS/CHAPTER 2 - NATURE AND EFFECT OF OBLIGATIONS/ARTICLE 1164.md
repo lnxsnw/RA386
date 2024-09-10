@@ -12,7 +12,7 @@
 > : a legal entitlement to have or do something.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Right to fruits
 > ```
 > A is obliged to deliver a mango tree to B. From the moment the obligation arises, B is entitled to any fruits the tree produces.
@@ -43,7 +43,6 @@ The creditor is entitled to the fruits of the thing to be delivered from the tim
 The intention of the law is to protect the interest of the obligee should the obligor commit delay, purposely or otherwise, in the fulfillment of his obligation.
 
 ### When obligation to deliver fruits arises.
-
 - (1) Generally, the obligation to deliver the thing due and, consequently, the fruits thereof, if any, arises from the time of the “perfection of the contract.” Perfection, in this case, refers to the birth of the contract or to the meeting of the minds between the parties. ([[ARTICLE 1305]], [[ARTICLE 1315]], [[ARTICLE 1319]].)
 - (2) If the obligation is subject to a suspensive condition or period ([[ARTICLE 1179]], [[ARTICLE 1189]], [[ARTICLE 1193]].), it arises upon the fulfillment of the condition or arrival of the term. However, the parties may make a stipulation to the contrary as regards the right of the creditor to the fruits of the thing.
 - (3) In a contract of sale, the obligation arises from the perfection of the contract even if the obligation is subject to a suspensive condition or a suspensive period where the price has been paid.
@@ -59,12 +58,10 @@ The intention of the law is to protect the interest of the obligee should the ob
 > But S has a right to the colt if it was born before the obligation to deliver the horse has arisen (Art. 1164.) and B has not yet paid the purchase price. In this case, upon the fulfillment of the condition or the arrival of the period, S does not have to give the colt and B is not obliged to pay legal interest on the price since the colt and the interest are deemed to have been mutually compensated. (see [[ARTICLE 1187]].)
 
 ### Meaning of personal right and real right.
-
 - (1) *Personal right* is the right or power of a person (creditor) to demand from another (debtor), as a definite passive subject, the fulfillment of the latter's obligation to give, to do, or not to do.
 - (2) *Real right* is the right or interest of a person over a specific thing (like ownership, possession, mortgage), without a definite passive subject against whom the right may be personally enforced.
 
 ### Personal right and real right distinguished.
-
 - (1) In personal right there is a definite active subject and a definite passive subject, while in real right, there is only a definite active subject without any definite passive subject. (see [[ARTICLE 1156]].)
 - (2) A personal right is, therefore, binding or enforceable only against a particular person, while a real right is directed against the whole world. (see next example.)
 

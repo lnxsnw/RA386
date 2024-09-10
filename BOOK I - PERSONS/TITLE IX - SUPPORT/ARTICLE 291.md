@@ -16,7 +16,7 @@
 > : status of children begotten and born outside of wedlock.
 > ```
 
-> [!example]-  Case Examples
+> [!example]- Case Examples
 > Spouses
 > ```
 > A husband must financially support his wife if she is unable to work due to illness.
